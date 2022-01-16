@@ -93,7 +93,7 @@ int main() {
     printf("Dude's name is %s.\n", charName); // %s can include text or variables
     printf("%s was %d years old.", charName, charAge); // printf can also print numbers, but with format specifier %d
     printf("He liked his name.\n"); // \ for escaping, but you can also new line with \n
-    printf("But being %d was crappy.\n", charAge);
+    printf("But being %d was not good", charAge);, .\n", charAge);
 
     int num = 123; // whole number
     double fart = 3.5; // decimal
